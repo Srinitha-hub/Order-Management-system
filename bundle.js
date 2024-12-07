@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Orders List:",[{id:1,customer:"John Doe",totalAmount:250,status:"Shipped"},{id:2,customer:"Jane Smith",totalAmount:450,status:"Processing"},{id:3,customer:"Alice Johnson",totalAmount:320,status:"Delivered"},{id:4,customer:"Bob Brown",totalAmount:150,status:"Pending"}])})();
